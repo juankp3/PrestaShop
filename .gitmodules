@@ -305,3 +305,6 @@
 [submodule "modules/sendtoafriend"]
 	path = modules/sendtoafriend
 	url = https://github.com/PrestaShop/sendtoafriend
+[submodule "modules/filestructure"]
+	path = modules/filestructure
+	url = git@gitlab.com:jkuga/modulos-prestashop/filestructure.git
